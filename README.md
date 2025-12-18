@@ -2,6 +2,8 @@ pimientito_blog_docs
 
 ## 目次
 - [概要](#概要)
+- [リポジトリ構成](#リポジトリ構成)
+- [コントリビューション](#コントリビューション)
 - [免責事項等](#免責事項等)
   - [1. 著作権および知的財産権について](#1-著作権および知的財産権について)
   - [2. 技術的内容の正確性について](#2-技術的内容の正確性について)
@@ -19,6 +21,42 @@ pimientito_blog_docs
 
 - **プロジェクト期間:** 2025年7月～
 - **関連ブログURL:** https://pimientito-ai-study.hatenablog.com
+
+## リポジトリ構成
+本リポジトリは、ブログ記事ごとにフォルダを分けて管理しています。
+
+```
+pimientito_blog_docs/
+├── blog-article-01/    # 記事1のドキュメント・ログ・成果物
+├── blog-article-02/    # 記事2のドキュメント・ログ・成果物
+├── README.md           # このファイル
+└── LICENSE.txt         # ライセンス情報
+```
+
+各記事フォルダには、実験・検証で使用したコード、設定ファイル、ログ、実行結果などが含まれます。
+
+## コントリビューション
+読者の皆様からのフィードバックを歓迎します。以下の方法でご協力ください。
+
+### Issues（質問・指摘・リクエスト）
+以下の内容は **Issues** にお寄せください：
+- 記事内容への質問
+- 誤字・脱字の指摘
+- リンク切れの報告
+- 新しい記事のリクエスト
+- その他の意見・提案
+
+[Issuesを開く](../../issues)
+
+### Pull Requests（修正提案）
+具体的な修正案がある場合は **Pull Request** をお送りください：
+1. 本リポジトリをFork
+2. 修正を加える
+3. Pull Requestを作成
+
+[Pull Requestを送る](../../pulls)
+
+**注意:** プルリクエストは内容を確認の上、採用を判断させていただきます。すべてのリクエストが採用されるわけではありませんので、予めご了承ください。
 
 ## 免責事項等
 
@@ -66,7 +104,7 @@ pimientito_blog_docs
 ```
 MIT License
 
-Copyright (c) 2025 genai-dev-showcase
+Copyright (c) 2025 Hiroyuki Kosho (pimientito_blog_docs)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
