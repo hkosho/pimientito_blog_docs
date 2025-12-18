@@ -1,6 +1,37 @@
 MIT License
 
-Copyright (c) 2025 Hiroyuki Kosho
+Copyright (c) 2025 Hiroyuki Kosho (pimientito_blog_docs)
+
+このソフトウェアおよび関連するドキュメントファイル(以下「ソフトウェア」)のコピーを
+取得した人は誰でも、ソフトウェアを無制限に扱うことが許可されます。これには、
+ソフトウェアのコピーを使用、複製、変更、マージ、公開、配布、サブライセンス、
+および/または販売する権利、ならびにソフトウェアを提供された人にそうすることを
+許可する権利が含まれますが、これらに限定されません。ただし、以下の条件に従うものとします。
+
+上記の著作権表示およびこの許可表示は、ソフトウェアのすべてのコピーまたは
+実質的な部分に含まれるものとします。
+
+ソフトウェアは「現状有姿」で提供され、明示的または黙示的を問わず、商品性、
+特定目的への適合性、および非侵害の保証を含むがこれに限定されない、いかなる種類の
+保証もありません。作者または著作権者は、契約行為、不法行為、またはその他の行為に
+起因するか否かを問わず、ソフトウェアまたはソフトウェアの使用もしくはその他の
+取引に起因または関連して生じる、いかなる請求、損害、またはその他の責任についても
+責任を負わないものとします。
+
+---
+
+注意事項：
+本ソフトウェアは、生成AI(ChatGPT、Claude、Gemini)との協働により作成されています。
+生成AIの学習データの性質上、意図せず既存のコードやアイデアと類似する可能性があります。
+万が一、知的財産権の侵害が発見された場合は、下記連絡先までご報告ください。
+
+連絡先：hiroyuki-kosho [at] arte-arte [dot] com
+
+---
+
+MIT License
+
+Copyright (c) 2025 Hiroyuki Kosho (pimientito_blog_docs)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +50,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+NOTICE:
+This software is created in collaboration with generative AI (ChatGPT, Claude, Gemini).
+Due to the nature of AI training data, there is a possibility of unintentional
+similarities with existing code or ideas. If any intellectual property infringement
+is discovered, please contact:
+
+Contact: hiroyuki-kosho [at] arte-arte [dot] com
